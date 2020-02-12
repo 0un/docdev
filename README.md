@@ -13,3 +13,9 @@ make up
 ### Hosts
 
 Add "127.0.0.1	test.local" in /etc/hosts
+
+### db
+
+srv: mysqlsrv
+root /root
+db: webapp
