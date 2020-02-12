@@ -1,9 +1,0 @@
-2019/06/30 12:05:02 [error] 6#6: *1 open() "/var/www/hello.test/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: hello.test, request: "GET /favicon.ico HTTP/1.1", host: "hello.test:8000"
-2019/06/30 12:07:20 [error] 6#6: *1 open() "/var/www/hello.test/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: hello.test, request: "GET /favicon.ico HTTP/1.1", host: "192.168.99.100"
-2019/06/30 12:07:29 [error] 6#6: *3 open() "/var/www/hello.test/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: hello.test, request: "GET /favicon.ico HTTP/1.1", host: "hello.test"
-2019/06/30 12:09:25 [error] 6#6: *1 open() "/var/www/hello.test/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: hello.test, request: "GET /favicon.ico HTTP/1.1", host: "hello.test"
-2019/06/30 12:48:23 [error] 6#6: *1 open() "/var/www/hello.test/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: hello.test, request: "GET /favicon.ico HTTP/1.1", host: "hello.test"
-2019/06/30 13:00:07 [error] 6#6: *1 open() "/var/www/hello.test/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: hello.test, request: "GET /favicon.ico HTTP/1.1", host: "hello.test"
-2020/02/12 15:47:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/test-local.conf:11
-2020/02/12 15:49:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/test-local.conf:11
-2020/02/12 15:51:32 [error] 6#6: *1 open() "/var/www/test.local/favicon.ico" failed (2: No such file or directory), client: 192.168.150.1, server: test.local, request: "GET /favicon.ico HTTP/1.1", host: "test.local"
